@@ -1,0 +1,9 @@
+customer_id,name,coupon_code,coupon_percent,credit_balance
+C001,Northwind Labs,,0,0.00
+C002,Orion Systems,,0,0.00
+C003,Pinnacle Retail,,0,0.00
+C004,Quartz Media,,0,0.00
+C005,Redwood Health,,0,0.00
+C006,Sierra Foods,LAUNCH175,17.5,0.00
+C007,Tundra Logistics,,0,800.00
+C008,Umbra Design,,0,0.00
